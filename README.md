@@ -1,6 +1,5 @@
 # Used-Car-Price-Prediction
-- Dataset Used: https://www.dropbox.com/s/aa37fjiyy63l2h7/UsedCarPrice.cs
-v?dl=1
+- Dataset Used: https://www.dropbox.com/s/aa37fjiyy63l2h7/UsedCarPrice.csv?dl=1
 - This project involved using various data science techniques to
 build a machine learning model that could accurately predict
 the prices of used cars.
